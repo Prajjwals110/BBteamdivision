@@ -189,7 +189,7 @@ let products = {
         category: "Rest",
         Age: "27",
         POS: "C",
-        team: "Alpha",
+        team: "Rest 12",
         image: "players/24.jpg",
       }, 
       {
